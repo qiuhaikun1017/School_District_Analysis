@@ -14,8 +14,8 @@ The average math score shows decrease from 79% to 78.9%. All the passing rate ar
 Thomas High schools shows remarkable change in its percange of passing. The percentage of passing math, reading and overall was 93.27%, 97.31% 90.95% to 66.91,66.96% and 65.08%. There is slightly change in its average score in math and reading, from 83.41 and 83.85 to 83.35 and 83.90.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-![top 5 before](Top 5 before.png)
-![top 5 after](Top 5 after.png)
+![top 5 before](Top _5_before.png)
+![top 5 after](Top _5_after.png)
 Thomas high school was one of the top 5 schools and ranked as the second among all the school based on its overall passing rate. However, after replacing the 9th grades, Thomas high school drops from the top school list but still not yet becomes the worset school as it still has overall passing rate of 65.08%. 
 
 #### How does replacing the ninth-grade scores affect the following:
